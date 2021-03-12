@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Santhoshkumar302
+- 👋 Hi, I’m @Santhoshkumar
 - 👀 I’m interested in Backend software developing
-- 🌱 I’m currently learning Python, Javascript, Mongodb, Mysql
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Python, Javascript, Mongodb, Mysql 
 - 📫 Send mail to santhoshkumar4097@gmail.com to contact me
 
 <!---
